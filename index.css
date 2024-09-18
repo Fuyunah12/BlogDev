@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+
+*{
+    margin: 0px 5px 0px 5px;
+    text-align: justify;
+    color:white;
+    font: normal normal 18pt  "Source Code Pro", monospace;
+}
+
+body{
+    background-color: #4E5166 ;
+}
+
+
+
+ header{
+    margin-top: 25px;
+    border-radius: 10px 10px 0px 0px;
+    background-color: #6c6f83;
+ }
+
+
+header h1{
+    padding-top: 29px;
+    margin-left: 20px;
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+ main{
+    background-color: #86899e;
+ }
+
+ main aside{
+    margin-bottom: 15px;
+ }
+
+ #a1{
+    margin-left: 20px;
+ }
+
+.aMenu{
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: lighter;
+    font-style: normal;
+    font-size: 28px;
+    margin-bottom: 20px;
+
+    text-shadow: 1.3px 1.3px 1.3px white;
+    display: inline-block;
+    text-decoration: none;
+    color: #90b6cf;
+    font-weight: bolder;
+    margin-right: 40px;
+}
+
+
+iframe{
+    margin: auto;
+}
+
+footer{
+    margin-bottom: 50px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #b3b6ce;
+}
